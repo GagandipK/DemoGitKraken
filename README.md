@@ -30,3 +30,5 @@ Test Line 4 for Clash on branch
 
 Another Test Line
 >>>>>>> scrp-final
+>>>>>>
+LINE 1
