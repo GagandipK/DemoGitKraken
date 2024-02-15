@@ -16,4 +16,6 @@ Last line
 
 Clash Testing Line 1
 
+This is Test Line 1 for Clash
+
 This is Test line 2 for Clash
