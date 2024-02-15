@@ -17,3 +17,5 @@ Last line
 Clash Testing Line 1
 
 This is Test line 2 for Clash
+
+Test Line 4 for Clash on branch
