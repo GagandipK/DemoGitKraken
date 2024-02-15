@@ -32,3 +32,5 @@ Another Test Line
 >>>>>>> scrp-final
 >>>>>>
 LINE 1
+
+LINE 2
