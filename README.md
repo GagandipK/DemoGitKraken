@@ -16,9 +16,19 @@ Last line
 
 Clash Testing Line 1
 
+<<<<<<< HEAD
+This is Test Line 1 for Clash
+
+This is Test line 2 for Clash
+
+Test Line 3 for Clash on main
+=======
 This is Test line 2 for Clash
 
 Test Line 4 for Clash on branch
 
 
 Another Test Line
+>>>>>>> scrp-final
+>>>>>>
+LINE 1
