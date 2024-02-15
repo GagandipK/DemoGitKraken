@@ -11,3 +11,5 @@ This is a test Clash
 Change file on main
 
 This file changed on main
+
+Last line
